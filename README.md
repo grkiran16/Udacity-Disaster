@@ -15,4 +15,8 @@
 4. Go to https://view6914b2f4-3001.udacity-student-workspaces.com
 
 The page includes 2 visualizations which gives an overview of the training set
+
+
 You can analyze a new message in the 'Enter message' section
+
+Unable to upload the model file, please use the above instructions to generate one
